@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Number Theory/Prime Factorization.md",
-                "mode": "preview",
+                "file": "Number Theory/1. Divisor Finding.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Number Theory/Prime Factorization.md",
+                "file": "Number Theory/1. Divisor Finding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Number Theory/Prime Factorization.md",
+                "file": "Number Theory/1. Divisor Finding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Number Theory/Prime Factorization.md"
+                "file": "Number Theory/1. Divisor Finding.md"
               }
             }
           }
@@ -149,23 +149,22 @@
   },
   "active": "cdab6affe2b54fde",
   "lastOpenFiles": [
-    "Number Theory/Divisor Finding.md",
-    "Number Theory/Prime Factorization.md",
+    "Number Theory/2. Sieve of Eratosthenes.md",
+    "Number Theory/3. Prime Factorization.md",
+    "Number Theory/1. Divisor Finding.md",
+    "Number Theory/Inclusion-Exclusion/Drawing 2024-07-06 20.07.44.excalidraw.md",
+    "Vector Analysis/14 Multiple Integral/14.1 Double Integral.md",
+    "Number Theory/Inclusion-Exclusion/Inclusion Exclusion Code.md",
+    "Number Theory/1.2 GCD/Drawing 2024-07-06 17.23.27.excalidraw.md",
     "Number Theory/Harmonic Series.md",
     "Excalidraw/Divisor Finding Algorithm 2024-07-07 23.21.15.excalidraw.md",
     "Number Theory/Divisor Finding Algorithm 2024-07-07 23.21.15.excalidraw.md",
-    "Number Theory/1.2 GCD/Drawing 2024-07-06 17.23.27.excalidraw.md",
     "Number Theory/Drawing 2024-07-06 17.23.27.excalidraw.md",
     "Number Theory/1.2 GCD",
-    "Number Theory/1.1 Inclusion-Exclusion/Drawing 2024-07-06 20.07.44.excalidraw.md",
-    "Number Theory/1.1 Inclusion-Exclusion/Inclusion Exclusion Code.md",
-    "Number Theory/1.1 Inclusion-Exclusion",
+    "Number Theory/Inclusion-Exclusion",
     "Number Theory/GCD/Drawing 2024-07-06 17.23.27.excalidraw.md",
     "Number Theory/GCD",
     "GCD/Drawing 2024-07-06 17.23.27.excalidraw.md",
-    "Number Theory/Inclusion-Exclusion/Inclusion Exclusion Code.md",
-    "Number Theory/Inclusion-Exclusion/Drawing 2024-07-06 20.07.44.excalidraw.md",
-    "Vector Analysis/14 Multiple Integral/14.1 Double Integral.md",
     "Number Theory/Inclusion-Exclusion",
     "GCD",
     "Number Theory",
@@ -181,7 +180,6 @@
     "Excalidraw/Drawing 2024-07-06 16.45.47.excalidraw.md",
     "Vector Analysis/Untitled.md",
     "Excalidraw/Drawing 2024-07-06 16.44.15.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-06 16.40.45.excalidraw.md",
     "Vector Analysis/Untitled.canvas",
     "Excalidraw",
     "Vector Analysis"
