@@ -4,25 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e0aeedf314861aa6",
+        "id": "c4ac256c28634dc0",
         "type": "tabs",
         "children": [
           {
-            "id": "da858172d37d7ce7",
+            "id": "247bfd087609a2d4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Vector Analysis/14 Multiple Integral/14.1 Double Integral.md"
+                "file": "Number Theory/Prime Factorization.md",
+                "mode": "preview",
+                "source": false
               }
-            }
-          },
-          {
-            "id": "dff9ed17c23e3fa3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -91,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vector Analysis/14 Multiple Integral/14.1 Double Integral.md",
+                "file": "Number Theory/Prime Factorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vector Analysis/14 Multiple Integral/14.1 Double Integral.md",
+                "file": "Number Theory/Prime Factorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vector Analysis/14 Multiple Integral/14.1 Double Integral.md"
+                "file": "Number Theory/Prime Factorization.md"
               }
             }
           }
@@ -155,9 +149,27 @@
   },
   "active": "cdab6affe2b54fde",
   "lastOpenFiles": [
+    "Number Theory/Divisor Finding.md",
+    "Number Theory/Prime Factorization.md",
+    "Number Theory/Harmonic Series.md",
+    "Excalidraw/Divisor Finding Algorithm 2024-07-07 23.21.15.excalidraw.md",
+    "Number Theory/Divisor Finding Algorithm 2024-07-07 23.21.15.excalidraw.md",
+    "Number Theory/1.2 GCD/Drawing 2024-07-06 17.23.27.excalidraw.md",
+    "Number Theory/Drawing 2024-07-06 17.23.27.excalidraw.md",
+    "Number Theory/1.2 GCD",
+    "Number Theory/1.1 Inclusion-Exclusion/Drawing 2024-07-06 20.07.44.excalidraw.md",
+    "Number Theory/1.1 Inclusion-Exclusion/Inclusion Exclusion Code.md",
+    "Number Theory/1.1 Inclusion-Exclusion",
+    "Number Theory/GCD/Drawing 2024-07-06 17.23.27.excalidraw.md",
+    "Number Theory/GCD",
+    "GCD/Drawing 2024-07-06 17.23.27.excalidraw.md",
+    "Number Theory/Inclusion-Exclusion/Inclusion Exclusion Code.md",
+    "Number Theory/Inclusion-Exclusion/Drawing 2024-07-06 20.07.44.excalidraw.md",
+    "Vector Analysis/14 Multiple Integral/14.1 Double Integral.md",
+    "Number Theory/Inclusion-Exclusion",
+    "GCD",
     "Number Theory",
     "Vector Analysis/14.1 Multiple Integral.md",
-    "Vector Analysis/14 Multiple Integral/14.1 Double Integral.md",
     "Vector Analysis/14 Multiple Integral",
     "Excalidraw/Drawing 2024-07-06 17.14.48.excalidraw.md",
     "Vector Analysis/Drawing 2024-07-06 17.11.59.excalidraw.md",
@@ -171,13 +183,6 @@
     "Excalidraw/Drawing 2024-07-06 16.44.15.excalidraw.md",
     "Excalidraw/Drawing 2024-07-06 16.40.45.excalidraw.md",
     "Vector Analysis/Untitled.canvas",
-    "Excalidraw/Multiple Integral 2024-07-06 16.35.42.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-06 16.25.29.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-06 16.25.10.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-06 16.23.58.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-06 16.20.55.excalidraw.md",
-    "Excalidraw/Multiple Integral 2024-07-06 16.13.33.excalidraw.md",
-    "Excalidraw/Multiple Integral 2024-07-06 16.11.15.excalidraw.md",
     "Excalidraw",
     "Vector Analysis"
   ]

@@ -2,5 +2,7 @@
   "attachmentFolderPath": "./",
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "showRibbon": false,
+  "showInlineTitle": true
 }

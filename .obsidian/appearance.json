@@ -1,1 +1,7 @@
-{}
+{
+  "showViewHeader": false,
+  "baseFontSizeAction": true,
+  "accentColor": "#049f23",
+  "theme": "obsidian",
+  "cssTheme": "Flexoki"
+}
