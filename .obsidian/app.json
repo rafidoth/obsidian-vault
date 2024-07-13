@@ -4,5 +4,7 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "showRibbon": false,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "showLineNumber": false,
+  "readableLineLength": true
 }
