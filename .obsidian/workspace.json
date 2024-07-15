@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Physics/RLC circuit DHM.svg"
+                "file": "Physics/FHM.svg"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/RLC circuit DHM.svg",
+                "file": "Physics/FHM.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/RLC circuit DHM.svg",
+                "file": "Physics/FHM.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/RLC circuit DHM.svg"
+                "file": "Physics/FHM.svg"
               }
             }
           }
@@ -145,17 +145,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6e2393f7cc22007",
+  "active": "cdab6affe2b54fde",
   "lastOpenFiles": [
-    "Vector Analysis/Excercise 11.6/Drawing 2024-07-09 07.20.40.excalidraw.md",
-    "Physics/RLC circuit DHM.svg",
     "Physics/draw.md",
+    "Physics/FHM.svg",
+    "Physics/RLC circuit DHM.svg",
     "Physics/Simple Harmonic Motion.md",
     "Physics/LC circuit SHM.svg",
     "Physics/Different cases of DHM.png",
     "Physics/DHM x(t), A(t), lifetime.png",
     "Physics/DHM in Spring Mass Oscillator.png",
     "Physics/ComplexNumberSHM.png",
+    "Vector Analysis/Excercise 11.6/Drawing 2024-07-09 07.20.40.excalidraw.md",
     "Physics/Pasted image 20240714233111.png",
     "Physics/Pasted Image 20240714225420_326.png",
     "Number Theory/4. Number of Divisors using Prime factorization.md",
@@ -165,7 +166,6 @@
     "Templates",
     "Excalidraw/3. Prime Factorization 2024-07-08 04.41.47.excalidraw.md",
     "Vector Analysis/Excercise 11.6/Pasted Image 20240709090013_615.png",
-    "Vector Analysis/Excercise 11.6/Pasted Image 20240709083104_627.png",
     "Vector Analysis/Excercise 11.6/Untitled.md",
     "Vector Analysis/Excercise 11.6",
     "Vector Analysis/E.md",
