@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c4ac256c28634dc0",
+        "id": "a8ab72b25738b9c9",
         "type": "tabs",
         "children": [
           {
-            "id": "c6e2393f7cc22007",
+            "id": "0ec2b56ae8f8fc98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Number Theory/1. Divisor Finding.md",
+                "file": "Number Theory/Modular Arithmetic.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "10ffc16bc0d8e4cb",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Number Theory/1. Divisor Finding.md",
+                "file": "Number Theory/Modular Arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Number Theory/1. Divisor Finding.md",
+                "file": "Number Theory/Modular Arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Number Theory/1. Divisor Finding.md"
+                "file": "Number Theory/Modular Arithmetic.md"
               }
             }
           }
@@ -147,29 +148,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6e2393f7cc22007",
+  "active": "cdab6affe2b54fde",
   "lastOpenFiles": [
-    "Number Theory/Pasted image 20240717105145.png",
-    "Excalidraw/Divisor Finding Algorithm 2024-07-07 23.21.15.excalidraw.md",
-    "Number Theory/1. Divisor Finding.md",
-    "Number Theory/2. Sieve of Eratosthenes.md",
-    "Number Theory/4. Number of Divisors using Prime factorization.md",
-    "Number Theory/3. Prime Factorization.md",
-    "Number Theory/Pasted image 20240717105042.png",
-    "Excalidraw/3. Prime Factorization 2024-07-08 11.29.52.excalidraw.md",
-    "Number Theory/Pasted image 20240717105012.png",
+    "Dynamic Programming/0. DP Listing.md",
+    "Number Theory/Modular Arithmetic.md",
+    "Number Theory/6. Euler Totient Function.md",
+    "Dynamic Programming/1. DP Illustration.md",
+    "Dynamic Programming/2. Coin Change Problem.md",
+    "Dynamic Programming/Coin Change Problem",
     "Excalidraw/3. Prime Factorization 2024-07-08 04.41.47.excalidraw.md",
-    "Excalidraw/3. Prime Factorization 2024-07-08 04.41.47.excalidraw.svg",
+    "Excalidraw/Pasted Image 20240722224046_587.png",
     "Excalidraw/3. Prime Factorization 2024-07-08 04.41.47.excalidraw.png",
-    "Physics/FHM.svg",
+    "Backtracking/Permutation (p!).md",
+    "Backtracking/Combinations (nCr).md",
+    "Backtracking/Pasted image 20240722145056.png",
+    "Dynamic Programming",
+    "Number Theory/2. Sieve of Eratosthenes.md",
+    "Physics/31 ComplexNumberSHM.png",
+    "Physics/45 Different cases of DHM.png",
+    "Physics/42 DHM x(t), A(t), lifetime.png",
+    "Physics/39 DHM in Spring Mass Oscillator.png",
+    "Physics/49 LC circuit SHM.svg",
+    "Physics/62 FHM.svg",
+    "Number Theory/5. Sum of Divisors using Prime factorization.md",
+    "Backtracking",
+    "Number Theory/Pasted image 20240720171521.png",
+    "Number Theory/draw.md",
+    "Number Theory/3. Prime Factorization.md",
+    "Vector Analysis/14. Multiple Integral/draw.md",
+    "Number Theory/1. Divisor Finding.md",
     "Physics/draw.md",
-    "Physics/RLC circuit DHM.svg",
-    "Physics/Simple Harmonic Motion.md",
-    "Physics/LC circuit SHM.svg",
-    "Physics/Different cases of DHM.png",
-    "Physics/DHM x(t), A(t), lifetime.png",
-    "Physics/DHM in Spring Mass Oscillator.png",
+    "Vector Analysis/14. Multiple Integral/14.5 Triple Multiple",
+    "Vector Analysis/14. Multiple Integral",
     "Vector Analysis/Excercise 11.6/Drawing 2024-07-09 07.20.40.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-19 22.10.58.excalidraw.md",
+    "Number Theory/4. Number of Divisors using Prime factorization.md",
+    "Physics/Simple Harmonic Motion.md",
+    "Physics/Untitled",
+    "Number Theory/Pasted.md",
+    "Excalidraw/Divisor Finding Algorithm 2024-07-07 23.21.15.excalidraw.md",
+    "Excalidraw/3. Prime Factorization 2024-07-08 11.29.52.excalidraw.md",
     "Physics",
     "Templates",
     "Vector Analysis/Excercise 11.6/Untitled.md",
@@ -177,24 +195,7 @@
     "Vector Analysis/E.md",
     "Number Theory/Inclusion-Exclusion/Inclusion Exclusion Code.md",
     "Number Theory/Inclusion-Exclusion/Drawing 2024-07-06 20.07.44.excalidraw.md",
-    "Vector Analysis/14 Multiple Integral/14.1 Double Integral.md",
-    "Number Theory/1.2 GCD/Drawing 2024-07-06 17.23.27.excalidraw.md",
-    "Number Theory/Harmonic Series.md",
-    "Number Theory/Divisor Finding Algorithm 2024-07-07 23.21.15.excalidraw.md",
-    "Number Theory/Drawing 2024-07-06 17.23.27.excalidraw.md",
     "Number Theory/1.2 GCD",
-    "Number Theory/Inclusion-Exclusion",
-    "Number Theory/GCD/Drawing 2024-07-06 17.23.27.excalidraw.md",
-    "Number Theory/GCD",
-    "GCD/Drawing 2024-07-06 17.23.27.excalidraw.md",
-    "Number Theory/Inclusion-Exclusion",
-    "GCD",
-    "Number Theory",
-    "Vector Analysis/14.1 Multiple Integral.md",
-    "Vector Analysis/14 Multiple Integral",
-    "Excalidraw/Drawing 2024-07-06 17.14.48.excalidraw.md",
-    "Vector Analysis/Drawing 2024-07-06 17.11.59.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-06 17.11.48.excalidraw.md",
     "Vector Analysis/Untitled.canvas"
   ]
 }

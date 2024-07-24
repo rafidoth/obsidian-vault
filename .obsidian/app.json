@@ -6,5 +6,6 @@
   "showRibbon": false,
   "showInlineTitle": true,
   "showLineNumber": false,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "vimMode": false
 }

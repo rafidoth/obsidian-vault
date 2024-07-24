@@ -1,6 +1,6 @@
-![[ComplexNumberSHM.png]]
-![[DHM in Spring Mass Oscillator.png]]
-![[Different cases of DHM.png]]
+![[31 ComplexNumberSHM.png]]
+![[39 DHM in Spring Mass Oscillator.png]]
+![[45 Different cases of DHM.png]]
 
-![[LC circuit SHM.svg]]
+![[49 LC circuit SHM.svg]]
 
