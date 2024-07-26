@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Number Theory/Modular Arithmetic.md",
-                "mode": "source",
+                "file": "Templates/binary_exponentiation.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "10ffc16bc0d8e4cb",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Number Theory/Modular Arithmetic.md",
+                "file": "Templates/binary_exponentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Number Theory/Modular Arithmetic.md",
+                "file": "Templates/binary_exponentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Number Theory/Modular Arithmetic.md"
+                "file": "Templates/binary_exponentiation.md"
               }
             }
           }
@@ -148,10 +147,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cdab6affe2b54fde",
+  "active": "0ec2b56ae8f8fc98",
   "lastOpenFiles": [
-    "Dynamic Programming/0. DP Listing.md",
+    "Binary Search/Binary Search.md",
+    "Templates/binary_exponentiation.md",
+    "Templates/prime_factor.md",
+    "Binary Search",
+    "Templates/Untitled.md",
+    "Templates/sieve.md",
+    "Number Theory/2. Sieve of Eratosthenes.md",
+    "Number Theory/3. Prime Factorization.md",
+    "Number Theory/0. Miscellaneous.md",
     "Number Theory/Modular Arithmetic.md",
+    "Dynamic Programming/0. DP Listing.md",
     "Number Theory/6. Euler Totient Function.md",
     "Dynamic Programming/1. DP Illustration.md",
     "Dynamic Programming/2. Coin Change Problem.md",
@@ -163,7 +171,6 @@
     "Backtracking/Combinations (nCr).md",
     "Backtracking/Pasted image 20240722145056.png",
     "Dynamic Programming",
-    "Number Theory/2. Sieve of Eratosthenes.md",
     "Physics/31 ComplexNumberSHM.png",
     "Physics/45 Different cases of DHM.png",
     "Physics/42 DHM x(t), A(t), lifetime.png",
@@ -174,7 +181,6 @@
     "Backtracking",
     "Number Theory/Pasted image 20240720171521.png",
     "Number Theory/draw.md",
-    "Number Theory/3. Prime Factorization.md",
     "Vector Analysis/14. Multiple Integral/draw.md",
     "Number Theory/1. Divisor Finding.md",
     "Physics/draw.md",
@@ -186,16 +192,9 @@
     "Physics/Simple Harmonic Motion.md",
     "Physics/Untitled",
     "Number Theory/Pasted.md",
-    "Excalidraw/Divisor Finding Algorithm 2024-07-07 23.21.15.excalidraw.md",
-    "Excalidraw/3. Prime Factorization 2024-07-08 11.29.52.excalidraw.md",
     "Physics",
     "Templates",
-    "Vector Analysis/Excercise 11.6/Untitled.md",
     "Vector Analysis/Excercise 11.6",
-    "Vector Analysis/E.md",
-    "Number Theory/Inclusion-Exclusion/Inclusion Exclusion Code.md",
-    "Number Theory/Inclusion-Exclusion/Drawing 2024-07-06 20.07.44.excalidraw.md",
-    "Number Theory/1.2 GCD",
     "Vector Analysis/Untitled.canvas"
   ]
 }
