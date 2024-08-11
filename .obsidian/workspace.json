@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/binary_exponentiation.md",
+                "file": "Number Theory/3. Prime Factorization.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/binary_exponentiation.md",
+                "file": "Number Theory/3. Prime Factorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/binary_exponentiation.md",
+                "file": "Number Theory/3. Prime Factorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/binary_exponentiation.md"
+                "file": "Number Theory/3. Prime Factorization.md"
               }
             }
           }
@@ -149,26 +149,29 @@
   },
   "active": "0ec2b56ae8f8fc98",
   "lastOpenFiles": [
-    "Binary Search/Binary Search.md",
-    "Templates/binary_exponentiation.md",
+    "Number Theory/2. Sieve of Eratosthenes.md",
+    "Templates/sieve.md",
     "Templates/prime_factor.md",
+    "Dynamic Programming/0. DP Listing.md",
+    "Dynamic Programming/1. DP Illustration.md",
+    "Bit Manipulation/Untitled.md",
+    "Backtracking/Untitled.md",
+    "Backtracking/Combinations (nCr).md",
+    "Bit Manipulation",
+    "Templates/binary_exponentiation.md",
+    "Binary Search/Binary Search.md",
     "Binary Search",
     "Templates/Untitled.md",
-    "Templates/sieve.md",
-    "Number Theory/2. Sieve of Eratosthenes.md",
     "Number Theory/3. Prime Factorization.md",
     "Number Theory/0. Miscellaneous.md",
     "Number Theory/Modular Arithmetic.md",
-    "Dynamic Programming/0. DP Listing.md",
     "Number Theory/6. Euler Totient Function.md",
-    "Dynamic Programming/1. DP Illustration.md",
     "Dynamic Programming/2. Coin Change Problem.md",
     "Dynamic Programming/Coin Change Problem",
     "Excalidraw/3. Prime Factorization 2024-07-08 04.41.47.excalidraw.md",
     "Excalidraw/Pasted Image 20240722224046_587.png",
     "Excalidraw/3. Prime Factorization 2024-07-08 04.41.47.excalidraw.png",
     "Backtracking/Permutation (p!).md",
-    "Backtracking/Combinations (nCr).md",
     "Backtracking/Pasted image 20240722145056.png",
     "Dynamic Programming",
     "Physics/31 ComplexNumberSHM.png",
@@ -189,12 +192,9 @@
     "Vector Analysis/Excercise 11.6/Drawing 2024-07-09 07.20.40.excalidraw.md",
     "Excalidraw/Drawing 2024-07-19 22.10.58.excalidraw.md",
     "Number Theory/4. Number of Divisors using Prime factorization.md",
-    "Physics/Simple Harmonic Motion.md",
     "Physics/Untitled",
-    "Number Theory/Pasted.md",
     "Physics",
     "Templates",
-    "Vector Analysis/Excercise 11.6",
     "Vector Analysis/Untitled.canvas"
   ]
 }
