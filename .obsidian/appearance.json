@@ -3,7 +3,7 @@
   "baseFontSizeAction": true,
   "accentColor": "#049f23",
   "theme": "obsidian",
-  "cssTheme": "Flexoki",
-  "baseFontSize": 21,
+  "cssTheme": "Minimal",
+  "baseFontSize": 15,
   "enabledCssSnippets": []
 }

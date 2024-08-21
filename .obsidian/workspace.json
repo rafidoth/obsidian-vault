@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Number Theory/3. Prime Factorization.md",
-                "mode": "preview",
+                "file": "CF-things/Practice Tracking.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Number Theory/3. Prime Factorization.md",
+                "file": "CF-things/Practice Tracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Number Theory/3. Prime Factorization.md",
+                "file": "CF-things/Practice Tracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Number Theory/3. Prime Factorization.md"
+                "file": "CF-things/Practice Tracking.md"
               }
             }
           }
@@ -149,20 +149,26 @@
   },
   "active": "0ec2b56ae8f8fc98",
   "lastOpenFiles": [
+    "Bit Manipulation/Applications.md",
+    "Templates/binary_exponentiation (power function).md",
     "Number Theory/2. Sieve of Eratosthenes.md",
+    "CF-things/Practice Tracking.md",
+    "Binary Search/Lower Bound & Upper Bound.md",
+    "CF-things",
+    "Binary Search/Untitled.md",
+    "Binary Search/Binary Search.md",
+    "Number Theory/3. Prime Factorization.md",
+    "Number Theory/7. Least Common Multiple (LCM).md",
+    "Number Theory/1. Divisor Finding.md",
     "Templates/sieve.md",
     "Templates/prime_factor.md",
     "Dynamic Programming/0. DP Listing.md",
     "Dynamic Programming/1. DP Illustration.md",
-    "Bit Manipulation/Untitled.md",
     "Backtracking/Untitled.md",
     "Backtracking/Combinations (nCr).md",
     "Bit Manipulation",
-    "Templates/binary_exponentiation.md",
-    "Binary Search/Binary Search.md",
     "Binary Search",
     "Templates/Untitled.md",
-    "Number Theory/3. Prime Factorization.md",
     "Number Theory/0. Miscellaneous.md",
     "Number Theory/Modular Arithmetic.md",
     "Number Theory/6. Euler Totient Function.md",
@@ -185,16 +191,10 @@
     "Number Theory/Pasted image 20240720171521.png",
     "Number Theory/draw.md",
     "Vector Analysis/14. Multiple Integral/draw.md",
-    "Number Theory/1. Divisor Finding.md",
-    "Physics/draw.md",
     "Vector Analysis/14. Multiple Integral/14.5 Triple Multiple",
     "Vector Analysis/14. Multiple Integral",
-    "Vector Analysis/Excercise 11.6/Drawing 2024-07-09 07.20.40.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-19 22.10.58.excalidraw.md",
-    "Number Theory/4. Number of Divisors using Prime factorization.md",
     "Physics/Untitled",
     "Physics",
-    "Templates",
     "Vector Analysis/Untitled.canvas"
   ]
 }
