@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CF-things/Practice Tracking.md",
+                "file": "Web Programming/Curl.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CF-things/Practice Tracking.md",
+                "file": "Web Programming/Curl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CF-things/Practice Tracking.md",
+                "file": "Web Programming/Curl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CF-things/Practice Tracking.md"
+                "file": "Web Programming/Curl.md"
               }
             }
           }
@@ -149,21 +149,31 @@
   },
   "active": "0ec2b56ae8f8fc98",
   "lastOpenFiles": [
+    "network-programming/Protocol.md",
+    "Web Programming/Curl.md",
+    "Web Programming",
+    "network-programming/Untitled 1.md",
+    "network-programming/Untitled.md",
+    "Dynamic Programming/Check List for DP.md",
+    "network-programming",
+    "nodejs-notes/nodejs.md",
+    "nodejs-notes",
+    "Dynamic Programming/1. DP Illustration.md",
+    "Dynamic Programming/2. Coin Change Problem.md",
+    "Binary Search/Iterative Way.md",
+    "Binary Search/Binary Search.md",
+    "Binary Search/Lower Bound & Upper Bound.md",
+    "CF-things/Practice Tracking.md",
     "Bit Manipulation/Applications.md",
     "Templates/binary_exponentiation (power function).md",
     "Number Theory/2. Sieve of Eratosthenes.md",
-    "CF-things/Practice Tracking.md",
-    "Binary Search/Lower Bound & Upper Bound.md",
     "CF-things",
-    "Binary Search/Untitled.md",
-    "Binary Search/Binary Search.md",
     "Number Theory/3. Prime Factorization.md",
     "Number Theory/7. Least Common Multiple (LCM).md",
     "Number Theory/1. Divisor Finding.md",
     "Templates/sieve.md",
     "Templates/prime_factor.md",
     "Dynamic Programming/0. DP Listing.md",
-    "Dynamic Programming/1. DP Illustration.md",
     "Backtracking/Untitled.md",
     "Backtracking/Combinations (nCr).md",
     "Bit Manipulation",
@@ -171,13 +181,9 @@
     "Templates/Untitled.md",
     "Number Theory/0. Miscellaneous.md",
     "Number Theory/Modular Arithmetic.md",
-    "Number Theory/6. Euler Totient Function.md",
-    "Dynamic Programming/2. Coin Change Problem.md",
     "Dynamic Programming/Coin Change Problem",
-    "Excalidraw/3. Prime Factorization 2024-07-08 04.41.47.excalidraw.md",
     "Excalidraw/Pasted Image 20240722224046_587.png",
     "Excalidraw/3. Prime Factorization 2024-07-08 04.41.47.excalidraw.png",
-    "Backtracking/Permutation (p!).md",
     "Backtracking/Pasted image 20240722145056.png",
     "Dynamic Programming",
     "Physics/31 ComplexNumberSHM.png",
@@ -186,15 +192,9 @@
     "Physics/39 DHM in Spring Mass Oscillator.png",
     "Physics/49 LC circuit SHM.svg",
     "Physics/62 FHM.svg",
-    "Number Theory/5. Sum of Divisors using Prime factorization.md",
     "Backtracking",
     "Number Theory/Pasted image 20240720171521.png",
-    "Number Theory/draw.md",
-    "Vector Analysis/14. Multiple Integral/draw.md",
     "Vector Analysis/14. Multiple Integral/14.5 Triple Multiple",
-    "Vector Analysis/14. Multiple Integral",
-    "Physics/Untitled",
-    "Physics",
     "Vector Analysis/Untitled.canvas"
   ]
 }

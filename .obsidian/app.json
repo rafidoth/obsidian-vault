@@ -5,7 +5,8 @@
   "promptDelete": false,
   "showRibbon": false,
   "showInlineTitle": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "readableLineLength": true,
-  "vimMode": false
+  "vimMode": true,
+  "strictLineBreaks": true
 }

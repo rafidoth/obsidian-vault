@@ -1,5 +1,7 @@
 [
   "obsidian-excalidraw-plugin",
   "obsidian-minimal-settings",
-  "theme-picker"
+  "theme-picker",
+  "obsidian-relative-line-numbers",
+  "obsidian-vimrc-support"
 ]

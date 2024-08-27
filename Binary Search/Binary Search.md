@@ -41,3 +41,4 @@ int locc(vector<int>& arr, int t){
     return s; 
 }
 ```
+

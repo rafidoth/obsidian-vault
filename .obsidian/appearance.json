@@ -4,6 +4,7 @@
   "accentColor": "#049f23",
   "theme": "obsidian",
   "cssTheme": "Minimal",
-  "baseFontSize": 15,
-  "enabledCssSnippets": []
+  "baseFontSize": 16,
+  "enabledCssSnippets": [],
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono"
 }
