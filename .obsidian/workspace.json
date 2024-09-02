@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Number Theory/3. Prime Factorization.md",
-                "mode": "preview",
+                "file": "Editorial (Self)/Codeforces Round 951 (Div 2).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "10ffc16bc0d8e4cb",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Number Theory/3. Prime Factorization.md",
+                "file": "Editorial (Self)/Codeforces Round 951 (Div 2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Number Theory/3. Prime Factorization.md",
+                "file": "Editorial (Self)/Codeforces Round 951 (Div 2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Number Theory/3. Prime Factorization.md"
+                "file": "Editorial (Self)/Codeforces Round 951 (Div 2).md"
               }
             }
           }
@@ -149,6 +150,10 @@
   },
   "active": "0ec2b56ae8f8fc98",
   "lastOpenFiles": [
+    "Editorial (Self)/Codeforces Round 951 (Div 2).md~",
+    "Editorial (Self)/4913",
+    "Number Theory/3. Prime Factorization.md",
+    "Editorial (Self)/Codeforces Round 951 (Div 2).md",
     "Templates/sieve.md",
     "Number Theory/2. Sieve of Eratosthenes.md",
     "Number Theory/7. Least Common Multiple (LCM).md",
@@ -169,8 +174,7 @@
     "CF-things/Practice Tracking.md",
     "Bit Manipulation/Applications.md",
     "Templates/binary_exponentiation (power function).md",
-    "CF-things",
-    "Number Theory/3. Prime Factorization.md",
+    "Editorial (Self)",
     "Number Theory/1. Divisor Finding.md",
     "Templates/prime_factor.md",
     "Dynamic Programming/0. DP Listing.md",
@@ -179,8 +183,6 @@
     "Bit Manipulation",
     "Binary Search",
     "Templates/Untitled.md",
-    "Number Theory/0. Miscellaneous.md",
-    "Number Theory/Modular Arithmetic.md",
     "Dynamic Programming/Coin Change Problem",
     "Excalidraw/Pasted Image 20240722224046_587.png",
     "Excalidraw/3. Prime Factorization 2024-07-08 04.41.47.excalidraw.png",
@@ -194,7 +196,6 @@
     "Physics/62 FHM.svg",
     "Backtracking",
     "Number Theory/Pasted image 20240720171521.png",
-    "Vector Analysis/14. Multiple Integral/14.5 Triple Multiple",
     "Vector Analysis/Untitled.canvas"
   ]
 }
