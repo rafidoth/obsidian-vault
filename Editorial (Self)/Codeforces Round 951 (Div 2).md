@@ -14,24 +14,24 @@ According to the problem statement for any $1<=i<=n$ this statement $x_i*k_i >S$
 x_i.k_i>S 
 ```
 ```math
-x_i > \frac{S}{k_i} \\
+x_i > \frac{S}{k_i} 
+```
+```math
 \sum_{1}^{n}x_i > \sum_{1}^{n}\frac{S}{k_i}
 ```
-$$
-$$
 
 Actually, $\sum_{1}^{n}{x_i}$ = $S$
 
-$$
+```math
 S > \sum_{1}^{n}\frac{S}{k_i}
-$$
+```
 
 And we can divide both side with S
 
 
-$$
+```math
 1 > \sum_{1}^{n}\frac{1}{k_i}
-$$
+```
 
 
 So, its enough to check this statement to say if its possible or not. But we
@@ -39,22 +39,22 @@ need the numbers if its possible.
 
 To get $\sum_{1}^{n}\frac{1}{k_i}$ we can take LCM of the denominator. So, its become like this,
 
-$$
+```math
 \frac{1}{k_0} + \frac{1}{k_1} + \frac{1}{k_1} + ..... + \frac{1}{k_n}<1
-$$
+```
 
 
 Let's say, $L = LCM(k_0,k_1,k_3,....k_n)$ 
-$$
+```math
 \frac{\frac{L}{k_1}+\frac{L}{k_2}+\frac{L}{k_3}+....+\frac{L}{k_n}}{L}<1
-$$
-$$
+```
+```math
 \frac{L}{k_1}+\frac{L}{k_2}+\frac{L}{k_3}+....+\frac{L}{k_n}<L
-$$
+```
 
-$$
+```math
 x_1+x_2+x_3+......+x_n <L
-$$
+```
 
 # Code (CPP)
 CF Submission Link : https://codeforces.com/contest/1979/submission/279334938
