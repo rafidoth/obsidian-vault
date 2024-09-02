@@ -10,14 +10,14 @@ Let's say, the answer is $x= [x_1,x_2,x_3,....,x_n]$<br/>
 total ammount invested/sum, $S = \sum_{1}^{n}{x_i}$<br/>
 According to the problem statement for any $1<=i<=n$ this statement $x_i*k_i >S$ has to be true<br/>
 
-$$
-x_i*k_i>S 
-$$
-$$
-x_i > \frac{S}{k_i}
-$$
-$$
+```math
+x_i.k_i>S 
+```
+```math
+x_i > \frac{S}{k_i} \\
 \sum_{1}^{n}x_i > \sum_{1}^{n}\frac{S}{k_i}
+```
+$$
 $$
 
 Actually, $\sum_{1}^{n}{x_i}$ = $S$
