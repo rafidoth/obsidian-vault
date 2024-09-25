@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Editorial (Self)/Codeforces Round 951 (Div 2).md",
-                "mode": "preview",
+                "file": "Dynamic Programming/Counting Number of Ways to make a sum.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "10ffc16bc0d8e4cb",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editorial (Self)/Codeforces Round 951 (Div 2).md",
+                "file": "Dynamic Programming/Counting Number of Ways to make a sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editorial (Self)/Codeforces Round 951 (Div 2).md",
+                "file": "Dynamic Programming/Counting Number of Ways to make a sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Editorial (Self)/Codeforces Round 951 (Div 2).md"
+                "file": "Dynamic Programming/Counting Number of Ways to make a sum.md"
               }
             }
           }
@@ -150,34 +149,35 @@
   },
   "active": "0ec2b56ae8f8fc98",
   "lastOpenFiles": [
+    "Binary Search/Lower Bound & Upper Bound.md",
+    "Dynamic Programming/Counting Number of Ways to make a sum.md",
+    "Dynamic Programming/0. DP Listing.md",
+    "Dynamic Programming/1. DP Illustration.md",
+    "Dynamic Programming/Check List for DP.md",
+    "Dynamic Programming/2. Coin Change Problem.md",
+    "Binary Search/Binary Search.md",
+    "Bit Manipulation/Applications.md",
+    "Templates/binary_exponentiation (power function).md",
+    "Templates/sieve.md",
+    "Number Theory/2. Sieve of Eratosthenes.md",
+    "Editorial (Self)/Codeforces Round 951 (Div 2).md",
     "Editorial (Self)/Codeforces Round 951 (Div 2).md~",
     "Editorial (Self)/4913",
     "Number Theory/3. Prime Factorization.md",
-    "Editorial (Self)/Codeforces Round 951 (Div 2).md",
-    "Templates/sieve.md",
-    "Number Theory/2. Sieve of Eratosthenes.md",
     "Number Theory/7. Least Common Multiple (LCM).md",
     "Web Programming/Curl.md",
     "network-programming/Protocol.md",
     "Web Programming",
     "network-programming/Untitled 1.md",
     "network-programming/Untitled.md",
-    "Dynamic Programming/Check List for DP.md",
     "network-programming",
-    "nodejs-notes/nodejs.md",
-    "nodejs-notes",
-    "Dynamic Programming/1. DP Illustration.md",
-    "Dynamic Programming/2. Coin Change Problem.md",
+    "Vector Analysis/nodejs-notes/nodejs.md",
+    "Vector Analysis/nodejs-notes",
     "Binary Search/Iterative Way.md",
-    "Binary Search/Binary Search.md",
-    "Binary Search/Lower Bound & Upper Bound.md",
     "CF-things/Practice Tracking.md",
-    "Bit Manipulation/Applications.md",
-    "Templates/binary_exponentiation (power function).md",
     "Editorial (Self)",
     "Number Theory/1. Divisor Finding.md",
     "Templates/prime_factor.md",
-    "Dynamic Programming/0. DP Listing.md",
     "Backtracking/Untitled.md",
     "Backtracking/Combinations (nCr).md",
     "Bit Manipulation",
@@ -194,7 +194,6 @@
     "Physics/39 DHM in Spring Mass Oscillator.png",
     "Physics/49 LC circuit SHM.svg",
     "Physics/62 FHM.svg",
-    "Backtracking",
     "Number Theory/Pasted image 20240720171521.png",
     "Vector Analysis/Untitled.canvas"
   ]
