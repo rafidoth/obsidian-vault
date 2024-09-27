@@ -38,4 +38,14 @@ result = dp[n]
 </br>
 <img src="3.png" width="1000">
 
+<h1>Counting Distinct Number of Ways to Construct sum</h1>
+
+according to the above problem as to construct 5 we can take bot 3 + 2 = 5 and 2 + 3 = 5<br>
+But now I want to consider this two similar so one way. In other words I want distinct ways only. 
+
+Solution : 
+I can take coins in order. Such as If I take 2 then after that I will only take coins greater or equal to 2
+
+
+
 
