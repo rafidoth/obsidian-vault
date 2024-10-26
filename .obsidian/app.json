@@ -7,6 +7,7 @@
   "showInlineTitle": true,
   "showLineNumber": true,
   "readableLineLength": true,
-  "vimMode": true,
-  "strictLineBreaks": true
+  "vimMode": false,
+  "strictLineBreaks": true,
+  "newLinkFormat": "relative"
 }
