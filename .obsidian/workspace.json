@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Number Theory/8. Binomial Coefficient.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -165,8 +165,11 @@
   },
   "active": "5ee2353c63afb833",
   "lastOpenFiles": [
-    "Dynamic Programming/Counting Number of Ways to make a sum.md",
+    "Number Theory/7. Least Common Multiple (LCM).md",
     "Number Theory/8. Binomial Coefficient.md",
+    "Number Theory/ncr1.png.crdownload",
+    "Number Theory/ncr1.png",
+    "Dynamic Programming/Counting Number of Ways to make a sum.md",
     "Dynamic Programming/1.png",
     "Dynamic Programming/3.png",
     "Dynamic Programming/2.png",
@@ -184,7 +187,6 @@
     "Editorial (Self)/Codeforces Round 951 (Div 2).md~",
     "Editorial (Self)/4913",
     "Number Theory/3. Prime Factorization.md",
-    "Number Theory/7. Least Common Multiple (LCM).md",
     "Web Programming/Curl.md",
     "network-programming/Protocol.md",
     "Web Programming",
@@ -199,18 +201,15 @@
     "Number Theory/1. Divisor Finding.md",
     "Templates/prime_factor.md",
     "Backtracking/Untitled.md",
-    "Backtracking/Combinations (nCr).md",
     "Bit Manipulation",
     "Binary Search",
     "Dynamic Programming/Coin Change Problem",
     "Excalidraw/Pasted Image 20240722224046_587.png",
     "Excalidraw/3. Prime Factorization 2024-07-08 04.41.47.excalidraw.png",
     "Backtracking/Pasted image 20240722145056.png",
-    "Dynamic Programming",
     "Physics/31 ComplexNumberSHM.png",
     "Physics/45 Different cases of DHM.png",
     "Physics/42 DHM x(t), A(t), lifetime.png",
-    "Physics/39 DHM in Spring Mass Oscillator.png",
     "Vector Analysis/Untitled.canvas"
   ]
 }
