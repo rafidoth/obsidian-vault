@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Number Theory/8. Binomial Coefficient.md",
-                "mode": "source",
+                "file": "Number Theory/9. Binomial Coefficient.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Binomial Coefficient"
+              "title": "9. Binomial Coefficient"
             }
           },
           {
@@ -179,17 +179,18 @@
   },
   "active": "5ee2353c63afb833",
   "lastOpenFiles": [
+    "Number Theory/8. Modular Arithmetic.md",
+    "Number Theory/9. Binomial Coefficient.md",
+    "Number Theory/draw.md",
     "Number Theory/7. Least Common Multiple (LCM).md",
+    "Templates/binary_exponentiation (power function).md",
     "Dynamic Programming/Counting Number of Ways to make a sum.md",
-    "Number Theory/8. Binomial Coefficient.md",
-    "Number Theory/9. Modular Arithmetic.md",
     "Number Theory/3. Prime Factorization.md",
     "Number Theory/5. Sum of Divisors using Prime factorization.md",
     "Number Theory/2. Sieve of Eratosthenes.md",
     "Number Theory/1. Divisor Finding.md",
     "Number Theory/0. Miscellaneous.md",
     "Number Theory/Modular Arithmetic.md",
-    "Templates/binary_exponentiation (power function).md",
     "Number Theory/ncr1.png.crdownload",
     "Number Theory/ncr1.png",
     "Dynamic Programming/1.png",
@@ -214,7 +215,6 @@
     "network-programming",
     "Vector Analysis/nodejs-notes/nodejs.md",
     "Vector Analysis/nodejs-notes",
-    "Binary Search/Iterative Way.md",
     "Editorial (Self)",
     "Bit Manipulation",
     "Binary Search",
